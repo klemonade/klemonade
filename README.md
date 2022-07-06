@@ -5,7 +5,7 @@
 [![My favs](https://github-readme-stats.vercel.app/api/top-langs/?username=klemonade&layout=compact&theme=tokyonight&hide=c,dart)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Previous web works
+### Previous works
 - [[On train]](https://on-train.vercel.app/) <br>
   implementing the existing design w/ Team
 - [#เป็นเมนส์ไม่เห็นต้องซ่อน Project by Inside the Sandbox](https://onperiod.iraconcept.com/) <br>
