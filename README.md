@@ -1,4 +1,6 @@
-### Lemon is here 🍋
+# SweetLemonade's 
+#### 咲き続けよう~
+<br>
 
 [![Lemon's GitHub stats](https://github-readme-stats.vercel.app/api?username=klemonade&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
