@@ -4,7 +4,7 @@
 
 [![Lemon's GitHub stats](https://github-readme-stats.vercel.app/api?username=klemonade&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My favs](https://github-readme-stats.vercel.app/api/top-langs/?username=klemonade&layout=compact&theme=tokyonight&hide=c,dart)](https://github.com/anuraghazra/github-readme-stats)
+[![My favs](https://github-readme-stats.vercel.app/api/top-langs/?username=klemonade&layout=compact&theme=tokyonight&hide=c,dart&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Previous works
