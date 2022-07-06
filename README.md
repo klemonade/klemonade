@@ -6,15 +6,15 @@
 
 
 ### Previous web works
-- https://on-train.vercel.app/ 
+- [[On train]](https://on-train.vercel.app/) <br>
   implementing the existing design w/ Team
-- https://onperiod.iraconcept.com/
+- [#เป็นเมนส์ไม่เห็นต้องซ่อน Project by Inside the Sandbox](https://onperiod.iraconcept.com/) <br>
   Internship Project
-- https://www.tdr.co.th/
+- [Thai Dong Rong Enterprise Co., Ltd.](https://www.tdr.co.th/) <br>
   Rebuild the legacy Wordpress website
 
 ### Personal Project
-- https://kaning-web-project.vercel.app/
+- [(To be) Public Archive for Kaning](https://kaning-web-project.vercel.app/)<br>
   [Now] Generating picture from text
 - [Auto Fishing bot for Minecraft](https://github.com/klemonade/minecraft-auto-fishing)
 - [Auto exit class meeting when time is up](https://github.com/klemonade/exit-meeting)
