@@ -7,7 +7,7 @@
 [![My favs](https://github-readme-stats.vercel.app/api/top-langs/?username=klemonade&layout=compact&theme=tokyonight&hide=c,dart)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Previous works
+## Previous works
 - [Team]
   - [[Svelte] On train](https://on-train.vercel.app/) <br>
   implementing the existing design
@@ -21,7 +21,7 @@
   Rebuild the legacy Wordpress website
 
 
-### Personal Project
+## Personal Project
 - [Team]
   - [[Python] [School Project] Learn how to do ML](https://github.com/klemonade/ML-Project)
 
