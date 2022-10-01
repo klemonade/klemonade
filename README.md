@@ -1,4 +1,4 @@
-# [Current Project] [Kaning Public Archive](https://kaning-web-project.vercel.app/)
+# [Current Project] [Kaning Public Archive](https://fightforkaning.vercel.app/)
 #### 咲き続けよう~
 <br>
 
