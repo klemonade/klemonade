@@ -26,7 +26,7 @@
   - [[Python] [School Project] Learn how to do ML](https://github.com/klemonade/ML-Project)
 
 - [Solo]
-  - [[Svelte] Public Archive for Kaning](https://kaning-web-project.vercel.app/)<br>
+  - [[Svelte] Public Archive for Kaning](https://fightforkaning.vercel.app/)<br>
   [Now] Generating picture from text
   - [[Python] Auto Fishing bot for Minecraft](https://github.com/klemonade/minecraft-auto-fishing)
   - [[Python] Auto exit class meeting when time is up](https://github.com/klemonade/exit-meeting)
