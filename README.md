@@ -2,9 +2,9 @@
 #### 咲き続けよう~
 <br>
 
-[![Lemon's GitHub stats](https://github-readme-stats.vercel.app/api?username=klemonade&count_private=true&show_icons=true&theme=tokyonight&custom_title=Lemon's_GitHub_stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Lemon's GitHub stats](https://github-readme-stats.vercel.app/api?username=klemonade&count_private=true&show_icons=true&theme=tokyonight&custom_title=Lemon's)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My favs](https://github-readme-stats.vercel.app/api/top-langs/?username=klemonade&layout=compact&theme=tokyonight&hide=c,dart&custom_title=My_favs)](https://github.com/anuraghazra/github-readme-stats)
+[![My favs](https://github-readme-stats.vercel.app/api/top-langs/?username=klemonade&layout=compact&theme=tokyonight&hide=html,dart&custom_title=Favorites)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Previous works
