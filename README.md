@@ -6,6 +6,12 @@
 
 [![My favs](https://github-readme-stats.vercel.app/api/top-langs/?username=klemonade&layout=compact&theme=tokyonight&hide=html,dart,css&custom_title=Favorites)](https://github.com/anuraghazra/github-readme-stats)
 
+## Passion Project
+- [Public Archive for Kaning](https://fightforkaning.vercel.app/)<br>
+- [บอกคิดถึงนานา](https://nanapenpichaya.vercel.app/)
+- [Marmink's In2TheMars4Rest](https://manichar.vercel.app/happy-birthday)
+- [#happyFortüne24thBD](https://fortunepundita.vercel.app/happy-birthday-2023)
+
 
 ## Previous works
 - [Team]
@@ -26,8 +32,6 @@
   - [[Python] [School Project] Learn how to do ML](https://github.com/klemonade/ML-Project)
 
 - [Solo]
-  - [[Svelte] Public Archive for Kaning](https://fightforkaning.vercel.app/)<br>
-  [Now] Generating picture from text
   - [[Python] Auto Fishing bot for Minecraft](https://github.com/klemonade/minecraft-auto-fishing)
   - [[Python] Auto exit class meeting when time is up](https://github.com/klemonade/exit-meeting)
   - [[Python] Auto comment bot for Tiktok in 48GAsiaFest](https://github.com/klemonade/stupid-comment-bot)
